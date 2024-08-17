@@ -1,0 +1,6 @@
+.card-box
+{
+border: 1px solid black;
+max-width: 250px;
+display: inline block;
+}
